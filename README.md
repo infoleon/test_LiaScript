@@ -10,8 +10,9 @@ asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasd
 asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas
 asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas.
 
-
-  --{{1}}--
+{{0}}
+  
+--{{1}}--
   
 # Lecture 1
 
@@ -34,9 +35,9 @@ inside the block
 
   !?[The Lessons](https://youtu.be/CImNVUWj1L8)
 
-   {{1}}
+{{1}}
 
-   --{{2}}--
+--{{2}}--
 
 # Lecture 2
    
@@ -74,13 +75,13 @@ asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasd
 
 
 
-   {{3}}
+{{3}}
 
-   --{{4}}--
+--{{4}}--
 
 
    
-   # Lecture 4
+# Lecture 4
    
 ## About
 Asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas
@@ -93,4 +94,4 @@ asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasd
    {{4}}
 
 
-  {{0}}
+
