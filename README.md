@@ -1,7 +1,9 @@
 
 # KiKompAg
 
+
  --{{0}}--
+
 
 # About KIKomAp
 
@@ -10,7 +12,7 @@ asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasd
 asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas
 asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas.
 
-{{0}}
+ {{0}}
   
  --{{1}}--
   
@@ -35,7 +37,7 @@ inside the block
 
   !?[The Lessons](https://youtu.be/CImNVUWj1L8)
 
-{{1}}
+ {{1}}
 
  --{{2}}--
 
@@ -75,7 +77,7 @@ asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasd
 
 
 
-{{3}}
+ {{3}}
 
  --{{4}}--
 
@@ -91,7 +93,7 @@ asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasd
 
 
 
-{{4}}
+ {{4}}
 
 
 
