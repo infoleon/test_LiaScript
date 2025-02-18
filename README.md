@@ -12,7 +12,8 @@ asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasd
 
 
   --{{1}}--
-  # Lecture 1
+  
+# Lecture 1
 
 ## About
 Asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas
@@ -37,7 +38,7 @@ inside the block
 
    --{{2}}--
 
-   # Lecture 2
+# Lecture 2
    
 ## About
 Asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas
@@ -63,8 +64,7 @@ inside the block
    --{{3}}--
 
 
-   
-   # Lecture 3
+# Lecture 3
    
 ## About
 Asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas
