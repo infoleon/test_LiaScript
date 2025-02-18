@@ -1,7 +1,7 @@
 
 # KiKompAg
 
---{{0}}--
+ --{{0}}--
 
 # About KIKomAp
 
@@ -12,7 +12,7 @@ asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasd
 
 {{0}}
   
---{{1}}--
+ --{{1}}--
   
 # Lecture 1
 
@@ -37,7 +37,7 @@ inside the block
 
 {{1}}
 
---{{2}}--
+ --{{2}}--
 
 # Lecture 2
    
@@ -62,7 +62,7 @@ inside the block
 
    {{2}}
    
---{{3}}--
+ --{{3}}--
 
 
 # Lecture 3
@@ -77,7 +77,7 @@ asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasdfasdfasdfas asdfasdfasd
 
 {{3}}
 
---{{4}}--
+ --{{4}}--
 
 
    
